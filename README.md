@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maximemoya
-- 👀 I’m interested in Java/Kotlin && PYTHON
-- 🌱 I’m currently learning Kotlin 
+- 👀 I’m interested in Java/Scala/Kotlin && TypeScript
+- 🌱 I’m currently learning Scala 
 - 💞️ I’m looking to collaborate on team project
 - 📫 How to reach me
 
